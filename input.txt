@@ -1,0 +1,7 @@
+a = 37 ctof
+b = 30 ctof
+print a
+print b
+c = drytemperature a wettemperature b
+print c
+exit_command
